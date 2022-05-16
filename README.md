@@ -4,7 +4,7 @@
 
 ### How to submit your code for review:
 
-[screenshot](https://user-images.githubusercontent.com/102968032/168538666-7f49f693-3177-40e3-9c28-d3b613799bde.jpg)
+
 
 <img src= "img/screenshot.jpg">
 
